@@ -18,5 +18,6 @@ Limitations
 - it can be modified to work also with original LEGO PF Servo (but not done yet)
 
 Wiring
+![alt text](https://github.com/igrolabs/ServoBrick/blob/main/ServoBrick%20v1_bb.png?raw=true)
 
 PoC photos
