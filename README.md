@@ -1,3 +1,6 @@
+# Repository moved
+Up-to-date code can be found here [TechnicPF](https://github.com/pink0D/TechnicPF)
+
 ## This is a Proof-of-Concept for proportional control of a Mould King Servo Motor
 
 ### Requirements
